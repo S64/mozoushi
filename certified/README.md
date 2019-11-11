@@ -2,5 +2,5 @@
 
 CCライセンス外での利用を許諾した作品のリスト
 
-- [Tシャツ](./tshirt.md)
-- [缶バッジ](./canbadge.md)
+- [モゾT](./mozo-t.md)
+- [モゾバッジ](./mozo-badge.md)
